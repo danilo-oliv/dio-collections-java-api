@@ -1,6 +1,4 @@
-package list.PesquisaEmLista;
-
-import com.sun.source.tree.BreakTree;
+package list.Pesquisa;
 
 import java.util.ArrayList;
 import java.util.List;
